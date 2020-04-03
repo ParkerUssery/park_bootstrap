@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
 <file name="dlbutton.png" server="3.93.13.62//var/www/html/parkboot/" local="132295863507213021" remote="132300002250000000" Dst="2" />
-<file name="parker.css" server="3.93.13.62//var/www/html/parkboot/" local="132299027338328087" remote="132302592180000000" Dst="2" />
-<file name="slideshow.css" server="3.93.13.62//var/www/html/parkboot/" local="132302608575232744" remote="132302608650000000" Dst="2" />
+<file name="parker.css" server="3.93.13.62//var/www/html/parkboot/" local="132303521006469583" remote="132303530620000000" Dst="2" />
+<file name="slideshow.css" server="3.93.13.62//var/www/html/parkboot/" local="132303514983398247" remote="132303530600000000" Dst="2" />
 <file name="navbar.css" server="3.93.13.62//var/www/html/parkboot/" local="132297245017776025" remote="132302592190000000" Dst="2" />
 <file name="slideshow.js" server="3.93.13.62//var/www/html/parkboot/" local="132296878439001907" remote="132302592210000000" Dst="2" />
-<file name="gems.html" server="3.93.13.62//var/www/html/parkboot/" local="132302606789849715" remote="132302606940000000" Dst="2" />
+<file name="gems.html" server="3.93.13.62//var/www/html/parkboot/" local="132303515045882298" remote="132303530650000000" Dst="2" />
 <file name="me.jpg" server="3.93.13.62//var/www/html/parkboot/" local="132302848740251769" remote="132302849210000000" Dst="2" />
-<file name="bio.html" server="3.93.13.62//var/www/html/parkboot/" local="132302853372120858" remote="132302853670000000" Dst="2" />
+<file name="bio.html" server="3.93.13.62//var/www/html/parkboot/" local="132302864214428156" remote="132303530770000000" Dst="2" />
+<file name="redirect.html" server="3.93.13.62//var/www/html/parkboot/" local="132303562852874460" remote="132303563020000000" Dst="2" />
+<file name="README" server="3.93.13.62//var/www/html/parkboot/" local="132299904861969121" remote="132303530640000000" Dst="2" />
+<file name="home.html" server="3.93.13.62//var/www/html/parkboot/" local="132299024254932043" remote="132303530640000000" Dst="2" />
+<file name="game.html" server="3.93.13.62//var/www/html/parkboot/" local="132303529566246024" remote="132303530680000000" Dst="2" />
 </dwsync>

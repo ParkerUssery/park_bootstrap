@@ -103,7 +103,7 @@ img {vertical-align: middle;}
 /* Bottom right text */
 .text-block {
  position: absolute;
- top: 40%;
+ top: 20%;
 
  right: auto;
  //background-color: black;
